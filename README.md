@@ -1,3 +1,3 @@
 # demo-actions-project
-project for practice
+project for practice 1
 
